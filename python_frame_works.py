@@ -9,7 +9,7 @@ import pandas
 
 
 
-#filepath = 'C:\\Users\\poulo\\Downloads\\metadata.csv (5)\\metadata.csv'
+filepath = 'C:\\Users\\poulo\\Downloads\\metadata.csv (5)\\metadata.csv'
 
 df = pandas.read_csv(filepath)
 import pandas as pd
